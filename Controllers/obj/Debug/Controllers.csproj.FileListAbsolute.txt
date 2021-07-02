@@ -1,0 +1,13 @@
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\bin\Debug\Controllers.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\bin\Debug\Controllers.pdb
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\obj\Debug\Controllers.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\obj\Debug\Controllers.pdb
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\bin\Debug\DataAccess.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\bin\Debug\Domain.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\bin\Debug\DataAccess.pdb
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Controllers\bin\Debug\Domain.pdb

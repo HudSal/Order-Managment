@@ -1,0 +1,9 @@
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Domain\bin\Debug\Domain.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Domain\bin\Debug\Domain.pdb
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Domain\obj\Debug\Domain.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Domain\obj\Debug\Domain.pdb
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Domain\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Domain\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\Domain\obj\Debug\Domain.csproj.CopyComplete

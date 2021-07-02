@@ -1,0 +1,11 @@
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\bin\Debug\Domain.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\bin\Debug\Domain.pdb
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\hudaa\Desktop\Prog2-Project\OrderManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
